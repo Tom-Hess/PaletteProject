@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PaletteProject</string>
+    <string-array name="colorsArray">
+        <item>Blanco</item>
+        <item>Rojo</item>
+        <item>Amarillo</item>
+        <item>Verde</item>
+        <item>Azul</item>
+        <item>Gris</item>
+        <item>Purpula</item>
+        <item>Plata</item>
+        <item>Cian</item>
+        <item>Lima</item>
+    </string-array>
+    <string-array name="englishColorsArray">
+        <item>White</item>
+        <item>Red</item>
+        <item>Yellow</item>
+        <item>Green</item>
+        <item>Blue</item>
+        <item>Gray</item>
+        <item>Purple</item>
+        <item>Silver</item>
+        <item>Cyan</item>
+        <item>Lime</item>
+    </string-array>
+</resources>
